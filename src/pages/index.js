@@ -10,6 +10,7 @@ const IndexPage = () => {
         alt="Clifford, a reddish-brown pitbull, dozing in a bean bag chair"
         src="../images/first-image.png"
       />
+      <img alt="weewwweeeeee" src="../src/images/first-image.png" />
     </Layout>
   );
 };
